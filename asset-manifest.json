@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Hookbook.git/static/css/main.340be3e7.css",
-    "main.js": "/Hookbook.git/static/js/main.affb3dae.js",
-    "static/js/787.28cb0dcd.chunk.js": "/Hookbook.git/static/js/787.28cb0dcd.chunk.js",
+    "main.js": "/Hookbook.git/static/js/main.2fd35202.js",
+    "static/js/787.65d913c6.chunk.js": "/Hookbook.git/static/js/787.65d913c6.chunk.js",
     "static/media/React.webp": "/Hookbook.git/static/media/React.8c2d3d1bb961db5c4cc7.webp",
     "index.html": "/Hookbook.git/index.html",
     "main.340be3e7.css.map": "/Hookbook.git/static/css/main.340be3e7.css.map",
-    "main.affb3dae.js.map": "/Hookbook.git/static/js/main.affb3dae.js.map",
-    "787.28cb0dcd.chunk.js.map": "/Hookbook.git/static/js/787.28cb0dcd.chunk.js.map"
+    "main.2fd35202.js.map": "/Hookbook.git/static/js/main.2fd35202.js.map",
+    "787.65d913c6.chunk.js.map": "/Hookbook.git/static/js/787.65d913c6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.340be3e7.css",
-    "static/js/main.affb3dae.js"
+    "static/js/main.2fd35202.js"
   ]
 }
