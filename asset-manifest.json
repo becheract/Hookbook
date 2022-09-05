@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/becheract/Hookbook.git/static/css/main.340be3e7.css",
-    "main.js": "/becheract/Hookbook.git/static/js/main.17cff23b.js",
-    "static/js/787.28cb0dcd.chunk.js": "/becheract/Hookbook.git/static/js/787.28cb0dcd.chunk.js",
-    "static/media/React.webp": "/becheract/Hookbook.git/static/media/React.8c2d3d1bb961db5c4cc7.webp",
-    "index.html": "/becheract/Hookbook.git/index.html",
-    "main.340be3e7.css.map": "/becheract/Hookbook.git/static/css/main.340be3e7.css.map",
-    "main.17cff23b.js.map": "/becheract/Hookbook.git/static/js/main.17cff23b.js.map",
-    "787.28cb0dcd.chunk.js.map": "/becheract/Hookbook.git/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/Hookbook.git/static/css/main.340be3e7.css",
+    "main.js": "/Hookbook.git/static/js/main.affb3dae.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Hookbook.git/static/js/787.28cb0dcd.chunk.js",
+    "static/media/React.webp": "/Hookbook.git/static/media/React.8c2d3d1bb961db5c4cc7.webp",
+    "index.html": "/Hookbook.git/index.html",
+    "main.340be3e7.css.map": "/Hookbook.git/static/css/main.340be3e7.css.map",
+    "main.affb3dae.js.map": "/Hookbook.git/static/js/main.affb3dae.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Hookbook.git/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.340be3e7.css",
-    "static/js/main.17cff23b.js"
+    "static/js/main.affb3dae.js"
   ]
 }
