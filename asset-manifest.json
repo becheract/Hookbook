@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Hookbook.git/static/css/main.340be3e7.css",
-    "main.js": "/Hookbook.git/static/js/main.2fd35202.js",
+    "main.js": "/Hookbook.git/static/js/main.de21d2c4.js",
     "static/js/787.65d913c6.chunk.js": "/Hookbook.git/static/js/787.65d913c6.chunk.js",
     "static/media/React.webp": "/Hookbook.git/static/media/React.8c2d3d1bb961db5c4cc7.webp",
     "index.html": "/Hookbook.git/index.html",
     "main.340be3e7.css.map": "/Hookbook.git/static/css/main.340be3e7.css.map",
-    "main.2fd35202.js.map": "/Hookbook.git/static/js/main.2fd35202.js.map",
+    "main.de21d2c4.js.map": "/Hookbook.git/static/js/main.de21d2c4.js.map",
     "787.65d913c6.chunk.js.map": "/Hookbook.git/static/js/787.65d913c6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.340be3e7.css",
-    "static/js/main.2fd35202.js"
+    "static/js/main.de21d2c4.js"
   ]
 }
