@@ -25,7 +25,7 @@ const root = ReactDOM.createRoot(
 root.render(
   <HashRouter>
     <Routes>
-      <Route path="/" element={<App />}>
+      <Route path="" element={<App />}>
         <Route path="usestate" element={<UseState />} />
         <Route path="useeffect" element={<UseEffect />} />
         <Route path="usecontext" element={<UseContext />} />
