@@ -25,21 +25,21 @@ const root = ReactDOM.createRoot(
 root.render(
   <HashRouter>
     <Routes>
-      <Route path="/Hookbook" element={<App />}>
-        <Route path="usestate" element={<UseState />} />
-        <Route path="useeffect" element={<UseEffect />} />
-        <Route path="usecontext" element={<UseContext />} />
-        <Route path="usereducer" element={<UseReducer />} />
-        <Route path="usecallback" element={<UseCallback />} />
-        <Route path="usefetch" element={<CustomHook />} />
-        <Route path="usememo" element={<UseMemo />} />
-        <Route path="uselayouteffect" element={<Uselayouteffect />} />
-        <Route path="useref" element={<UseRef />} />
-        <Route path="useimperativehandle" element={<UseImperativeHandle />} />
-        <Route path="usetransition" element={<UseTransition />} />
-        <Route path="usedeferredvalue" element={<UseDefreredValue />} />
-        <Route path="usedebugvalue" element={<UseDebugValue />} />
-        <Route path="useid" element={<UseId />} />
+      <Route path="/" element={<App />}>
+        <Route path="/usestate" element={<UseState />} />
+        <Route path="/useeffect" element={<UseEffect />} />
+        <Route path="/usecontext" element={<UseContext />} />
+        <Route path="/usereducer" element={<UseReducer />} />
+        <Route path="/usecallback" element={<UseCallback />} />
+        <Route path="/usefetch" element={<CustomHook />} />
+        <Route path="/usememo" element={<UseMemo />} />
+        <Route path="/uselayouteffect" element={<Uselayouteffect />} />
+        <Route path="/useref" element={<UseRef />} />
+        <Route path="/useimperativehandle" element={<UseImperativeHandle />} />
+        <Route path="/usetransition" element={<UseTransition />} />
+        <Route path="/usedeferredvalue" element={<UseDefreredValue />} />
+        <Route path="/usedebugvalue" element={<UseDebugValue />} />
+        <Route path="/useid" element={<UseId />} />
       </Route>
     </Routes>
   </HashRouter>
